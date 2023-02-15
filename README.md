@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @10wook
-- 👀 I’m interested in ... captive portal
-- 🌱 I’m currently learning ... html/python/C++
-- 📫 How to reach me ...younguk137@naver.com
+# 한영욱 / HAN YOUNG WOOK (10wook)
+## 학력
 
-<!---
-10wook/10wook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 숭실대학교 경영학부 2019년도 입학
+### 숭실대학교 AI융합학부 2020년도 부터 복수전공
+
+## 
