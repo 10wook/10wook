@@ -8,3 +8,6 @@
 ## 경력
 현재 산업기능요원(보충역)을 알아보고 있습니다.
 
+
+## 💻 Algorithm Problem Solving
+
