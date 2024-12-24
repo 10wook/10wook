@@ -16,8 +16,8 @@
 ## 🚀 **프로젝트**
 
 ### 🤖 Object Detection + SRNet 통합 (2024) 
-- (https://github.com/AnBoIms/AnBoIms)(협업용)
-- (https://github.com/AnBoIms/Temustargram)(배포용)
+- 협업용 : (https://github.com/AnBoIms/AnBoIms) 
+- 배포용 : (https://github.com/AnBoIms/Temustargram)
 - 객체 감지와 텍스트 편집 모델을 통합한 프로젝트.
 - 주요 기술: instance segmentation, mmdetection, SRNet의 한글 적용
   
