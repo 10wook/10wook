@@ -8,10 +8,10 @@
 - 채용 연계 인턴에 합격하여 근무증...
 ## 🛠 **기술 스택**
 - **프로그래밍 언어** : <img src="https://img.shields.io/badge/python-3776AB?flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?flat&logo=c%2B%2B&logoColor=white">
-- **웹 개발** : <img src="https://img.shields.io/badge/html5-E34F26?flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-- **데이터 분석 및 머신러닝**: <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit-learn-FF6F00?style=flat&logo=Scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
-- **툴 및 플랫폼**: <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/docker-1D63ED?style=flat&logo=docker&logoColor=white"/>
+- **웹 개발** : <img src="https://img.shields.io/badge/html5-E34F26?flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?flat&logo=css3&logoColor=white"> <im g src="https://img.shields.io/badge/javascript-F7DF1E?flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+- **데이터 분석 및 머신러닝**: <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit-learn-FF6F00?style=flat&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+- **툴 및 플랫폼**: <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/docker-1D63ED?style=flat&logo=docker&logoColor=white"/>
 
 ## 🚀 **프로젝트**
 
