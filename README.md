@@ -3,9 +3,10 @@
 ## 🧑‍🎓 **학력**
 - **숭실대학교 경영학부** (2019년 입학)  
 - **숭실대학교 AI융합학부** (2020년부터 복수전공)
-- **숭실대학교 졸업** (2025년 2월 졸업 (예정))
+- **숭실대학교 졸업** (2025년 2월 졸업)
 ## 💼 **경력**
-- 채용 연계 인턴에 합격하여 근무증...
+- 채용 연계 인턴에 **합격**하여 근무증 (2/3~4/25)
+- 
 ## 🛠 **기술 스택**
 - **프로그래밍 언어** : <img src="https://img.shields.io/badge/python-3776AB?flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?flat&logo=c%2B%2B&logoColor=white">
 - **웹 개발** : <img src="https://img.shields.io/badge/html5-E34F26?flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?flat&logo=css3&logoColor=white"> <im g src="https://img.shields.io/badge/javascript-F7DF1E?flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
@@ -15,18 +16,25 @@
 
 ## 🚀 **프로젝트**
 
-### 🤖 Object Detection + SRNet 통합 (2024) 
+### Currnetly Working On 애체 : (OCR + 번역 + SRNet) (https://github.com/ShowMyWorldInKorean)
+- 모델 구현 : (https://github.com/ShowMyWorldInKorean/visualTranslation)
+- 배포 : (https://github.com/ShowMyWorldInKorean/MakeWorldKoreanViaWeb)
+- OCR(광학문자인식) + 번역 + STE(scene text editing) => 이미지 내 자연스러운 번역.
+- 해당 프로젝트에서 PM과 STE를 담당하고 있습니다.
+
+
+### 🤖 안보임스! Object Detection + SRNet 통합 => 가명처리  (2024) (https://github.com/AnBoIms)
 - 협업용 : (https://github.com/AnBoIms/AnBoIms) 
 - 배포용 : (https://github.com/AnBoIms/Temustargram)
 - 객체 감지와 텍스트 편집 모델을 통합한 프로젝트.
 - 주요 기술: instance segmentation, mmdetection, SRNet의 한글 적용
+- 논문 : Upcomming... May 2025
   
-  
-### 유니버셜 키오스크 제작 (https://github.com/KioSSGk/kiossgk)
+### 유니버셜 키오스크 제작  (2024) (https://github.com/KioSSGk/kiossgk)
 - Next.js를 활용하여 웹기반 키오스크를 개발하였습니다.
   
 
-## ✨ **교내식당 수요예측 프로젝트 (2023)(https://github.com/10wook/School_Restaurants_demand_forcast)**
+###  **교내식당 수요예측 프로젝트 (2023)(https://github.com/10wook/School_Restaurants_demand_forcast)**
 - 실제 데이터 수집을 위한 해당 분야 전문가 상담 및 데이터 분석 수행
 
 
@@ -49,7 +57,7 @@
 
 ## 🌟 **Fun Facts**
 - 커피 중독자 ☕️, 새로운 카페 찾기 취미.
-- **자전거**와 **여행**을 통해 영감을 얻습니다.
+- **자전거**와 **여행** 그리고 **미술사**를 통해 영감을 얻습니다.
 
 ![10wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=10wook&show_icons=true&theme=radical)
 <a href="https://github.com/anuraghazra/github-readme-stats">
