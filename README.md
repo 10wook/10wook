@@ -57,7 +57,8 @@
 
 ## 🌟 **Fun Facts**
 - 커피 중독자 ☕️, 새로운 카페 찾기 취미.
-- **자전거**와 **여행** 그리고 **미술사**를 통해 영감을 얻습니다.
+- **미술사**와 **전시회 관람**을 통해 영감을 얻습니다.
+- 미술 전시회를 보러 다니는 것을 좋아합니다 🎨
 
 ![10wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=10wook&show_icons=true&theme=radical)
 <a href="https://github.com/anuraghazra/github-readme-stats">
