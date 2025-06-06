@@ -6,7 +6,7 @@
 - **숭실대학교 졸업** (2025년 2월 졸업)
 ## 💼 **경력**
 - 채용 연계 인턴에 **합격**하여 근무증 (2/3~4/25)
-- 그리고 정규직으로 전환되어 4/28부터 AI서비스팀에서 업무를 시작할 예정입니다.
+- 그리고 정규직으로 전환되어 4/28부터 AI서비스팀에서 근무중이며 RAG활용한 프로젝트를 시작했습니다.
 ## 🛠 **기술 스택**
 - **프로그래밍 언어** : <img src="https://img.shields.io/badge/python-3776AB?flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?flat&logo=c%2B%2B&logoColor=white">
 - **웹 개발** : <img src="https://img.shields.io/badge/html5-E34F26?flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?flat&logo=css3&logoColor=white"> <im g src="https://img.shields.io/badge/javascript-F7DF1E?flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
