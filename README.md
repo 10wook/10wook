@@ -25,14 +25,14 @@
 
 ### 출판한 논문들 ...
 - 경호 특화 Vision 변화 탐지 AI에 관한 연구 [https://kiss.kstudy.com/Detail/Ar?key=4176896]
-- 안보임스 프로젝트 결과를 다룬 논문(저널)이 7/30에 게재될 예정입니다. 많은 관심(?) 부탁드려요~
+- 안보임스 프로젝트 결과를 다룬 논문(저널) : 자연스러운 이미지 가명화를 위한 Mask R-CNN과 SRNet 기반 개인정보 보호 시스템 구현 [https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228348]
 
 ### 🤖 안보임스! Object Detection + SRNet 통합 => 가명처리  (2024) (https://github.com/AnBoIms)
 - 협업용 : (https://github.com/AnBoIms/AnBoIms) 
 - 배포용 : (https://github.com/AnBoIms/Temustargram)
 - 객체 감지와 텍스트 편집 모델을 통합한 프로젝트.
 - 주요 기술: instance segmentation, mmdetection, SRNet의 한글 적용
-- 논문 : Upcomming... July 2025
+- 논문 : 자연스러운 이미지 가명화를 위한 Mask R-CNN과 SRNet 기반 개인정보 보호 시스템 구현 [https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228348]
   
 ### 유니버셜 키오스크 제작  (2024) (https://github.com/KioSSGk/kiossgk)
 - Next.js를 활용하여 웹기반 키오스크를 개발하였습니다.
