@@ -64,7 +64,6 @@
 - **미술사**와 **전시회 관람**을 통해 영감을 얻습니다.
 - 미술 전시회를 보러 다니는 것을 좋아합니다 🎨
 
-![10wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=10wook&show_icons=true&theme=radical)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10wook&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=html,scss"/>
+![10wook's GitHub stats](https://github-readme-stats-nine-gold-95.vercel.app/api?username=10wook&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats-nine-gold-95.vercel.app/api/top-langs/?username=10wook&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=html,scss"/>
