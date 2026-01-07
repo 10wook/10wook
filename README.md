@@ -1,9 +1,9 @@
 # 👋 한영욱 / HAN YOUNG WOOK (10wook)
 
 ## 🧑‍🎓 **학력**
-- **00대학교 경영학부** (2019년 입학)  
-- **00대학교 AI융합학부** (2020년부터 복수전공)
-- **00대학교 졸업** (2025년 2월 졸업)
+- **숭실대학교 경영학부** (2019년 입학)  
+- **숭실대학교 AI융합학부** (2020년부터 복수전공)
+- **숭실대학교 졸업** (2025년 2월 졸업)
 ## 💼 **경력**
 - 채용 연계 인턴에 **합격**하여 근무증 (2025/2/3~4/25)
 - 그리고 정규직으로 전환되어 4/28부터 AI서비스팀에서 근무중이며 RAG활용한 프로젝트를 시작했습니다.
@@ -20,6 +20,7 @@
 ### Currnetly Working On 애체 : (OCR + 번역 + SRNet) (https://github.com/ShowMyWorldInKorean)
 - 모델 구현 : (https://github.com/ShowMyWorldInKorean/visualTranslation)
 - 배포 : (https://github.com/ShowMyWorldInKorean/MakeWorldKoreanViaWeb)
+- 논문 : https://koreascience.kr/article/CFKO202532532432387.page
 - OCR(광학문자인식) + 번역 + STE(scene text editing) => 이미지 내 자연스러운 번역.
 - 해당 프로젝트에서 PM과 STE를 담당하고 있습니다.
 
