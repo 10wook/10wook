@@ -26,6 +26,7 @@
 
 
 ### 출판한 논문들 ...
+- Translating Text in Wild: PaddleOCR 과 SRNet++ 기반 자연스러운 이미지 번역 시스템 구현 [https://koreascience.kr/article/CFKO202532532432387.page]
 - 경호 특화 Vision 변화 탐지 AI에 관한 연구 [https://kiss.kstudy.com/Detail/Ar?key=4176896]
 - 안보임스 프로젝트 결과를 다룬 논문(저널) : 자연스러운 이미지 가명화를 위한 Mask R-CNN과 SRNet 기반 개인정보 보호 시스템 구현 [https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228348]
 
