@@ -76,6 +76,10 @@
 - **미술사**와 **전시회 관람**을 통해 영감을 얻습니다.
 - 미술 전시회를 보러 다니는 것을 좋아합니다 🎨
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="1000" height="400">
+</p>
+
 ![10wook's GitHub stats](https://github-readme-stats-nine-gold-95.vercel.app/api?username=10wook&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats-nine-gold-95.vercel.app/api/top-langs/?username=10wook&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=html,scss"/>
